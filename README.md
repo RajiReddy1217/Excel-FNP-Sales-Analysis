@@ -1,6 +1,6 @@
 # Excel-FNP-Sales-Analysis
 📊 FNP Sales Analysis Dashboard
-This project showcases an interactive Sales Analysis Dashboard built for a flower and gifting brand (FNP). It provides data-driven insights into customer behavior, sales trends, and product performance using visualization tools.
+project showcases an interactive Sales Analysis Dashboard built for a flower and gifting brand (FNP). It provides data-driven insights into customer behavior, sales trends, and product performance using visualization tools.
 
 🔍 Key Highlights
 Total Orders: 1,000
